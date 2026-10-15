@@ -24,7 +24,7 @@ Un raccourci **Sword TV** est posé sur le Bureau et dans le menu Démarrer. Pou
 
 Dans **Réglages › Télécommande**, scannez le QR code avec le téléphone — ou tapez simplement le lien affiché (par exemple `http://192.168.1.20`) et entrez le code à 4 chiffres qui apparaît sur la télé. Le téléphone et le PC doivent être sur le même Wi-Fi.
 
-Glissez sur le pavé pour vous déplacer, touchez pour valider. Retour, Accueil, Lecture/Pause, **volume du PC**, clavier (avec la dictée du téléphone) et menu d’alimentation. Astuce : ajoutez la page à l’écran d’accueil du téléphone.
+Glissez sur le pavé pour vous déplacer, gardez le doigt posé pour défiler, touchez pour valider. Les applis s’ouvrent d’un toucher depuis le téléphone, et la barre de lecture se fait glisser pour sauter à n’importe quel moment. Retour, Accueil, Lecture/Pause, **volume du PC**, clavier (avec la dictée du téléphone) et menu d’alimentation. Astuce : ajoutez la page à l’écran d’accueil du téléphone.
 
 **Manette** Xbox ou PlayStation : A valider, B retour, Y rechercher, Start lecture, Guide accueil.
 **Clavier** : flèches, Entrée, Échap. **F11** bascule plein écran / fenêtre.
