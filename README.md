@@ -26,6 +26,8 @@ Dans **Réglages › Télécommande**, scannez le QR code avec le téléphone �
 
 Glissez sur le pavé pour vous déplacer, gardez le doigt posé pour défiler, touchez pour valider. Les applis s’ouvrent d’un toucher depuis le téléphone, et la barre de lecture se fait glisser pour sauter à n’importe quel moment. Retour, Accueil, Lecture/Pause, **volume du PC**, clavier (avec la dictée du téléphone) et menu d’alimentation. Astuce : ajoutez la page à l’écran d’accueil du téléphone.
 
+Plus qu’une télécommande, un **compagnon** : l’onglet **À regarder** reprend vos séries et montre Ma liste, vos téléchargements et les directs Twitch ; **Rechercher** fouille Sword, YouTube et Twitch (un lien collé se lance aussi) ; chaque fiche montre ses épisodes et votre progression. Pendant la lecture, **En cours** donne les épisodes, l’épisode suivant, la vitesse, la qualité, l’audio, les **sous-titres** (désactivés par défaut, ou VF à la place d’une VOSTFR), la mise en veille et le chat Twitch. Tout se lance sur la télé.
+
 **Manette** Xbox ou PlayStation : A valider, B retour, Y rechercher, Start lecture, Guide accueil.
 **Clavier** : flèches, Entrée, Échap. **F11** bascule plein écran / fenêtre.
 
